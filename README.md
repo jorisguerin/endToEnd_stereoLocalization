@@ -50,9 +50,9 @@ Additional information about the data can be found in the "info.txt" file.
 Each line of this file contains the screw driver model (1, 2, 3 or 4) and the presence of the robot (a, b, c) separated by a semicolumn.
 
 Presence of the robot:
-a : robot is on the image
-b : end-effector hidden with a t-shirt
-c : robot removed computationally
+* a : robot is on the image
+* b : end-effector hidden with a t-shirt
+* c : robot removed computationally
 
 ### 9. CITATION:
 
