@@ -6,13 +6,19 @@
 
 ### 2. CONTACT: 
 
-      [Joris GUERIN](https://jorisguerin.github.io/)
-      Laboratoire d'Ingénierie des Systèmes Physiques Et Numériques, Arts et Métiers ParisTech, Lille, France
-      Ecole Nationale supérieure des Arts et Métiers
-      8 Boulevard Louis XIV
-      59800 LILLE
-      FRANCE
-      email: jorisguerin.research@gmail.com
+[Joris GUERIN](https://jorisguerin.github.io/)
+
+Laboratoire d'Ingénierie des Systèmes Physiques Et Numériques, Arts et Métiers ParisTech, Lille, France
+
+Ecole Nationale supérieure des Arts et Métiers
+
+8 Boulevard Louis XIV
+
+59800 LILLE
+
+FRANCE
+
+email: jorisguerin.research@gmail.com
 
 ### 3. RELEVANT INFORMATION:
       
