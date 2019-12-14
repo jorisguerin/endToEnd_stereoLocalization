@@ -16,7 +16,7 @@ email: jorisguerin.research@gmail.com
 
 ### 3. RELEVANT INFORMATION:
 
-This folder contains a labelled dataset for 3D object localization. Each example is composed of two 300\*300 images (from two fixed cameras) and the target is a vector with 6 entries representing the XYZ coordinates of two points on the screw driver handle. The two points are the uppest and lowest point of the handle on the screw driver axis.
+This folder contains a labelled dataset for 3D object localization. Each example is composed of two 300x300 images (from two fixed cameras) and the target is a vector with 6 entries representing the XYZ coordinates of two points on the screw driver handle. The two points are the uppest and lowest point of the handle on the screw driver axis.
 
 This dataset was generated using an industrial robot to get knowledge of the exact position of the object. The XYZ coordinates are expressed in the robot frame, hence the 3D localization model needs to handle the change of frame.
 
@@ -25,7 +25,7 @@ More information can be found on the paper (see citation)
 
 ### 5. NUMBER OF INSTANCES:
 
-5008 examples (10016 images (300\*300))
+5008 examples (10016 images (300x300))
 
 ### 6. INPUT FEATURES:
 
