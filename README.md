@@ -58,14 +58,14 @@ c : robot removed computationally
 
 If you find this dataset useful in your research, please consider citing:
 
-@inproceedings{guerin2018automatic,
-title={Automatic Construction of Real-World Datasets for 3D Object Localization using Two Cameras},
-author={Gu{\'e}rin, Joris and Gibaru, Olivier and Nyiri, Eric and Thiery, St{\'e}phane and Palos, Jorge},
-booktitle={IECON 2018-44th Annual Conference of the IEEE Industrial Electronics Society},
-pages={3655--3658},
-year={2018},
-organization={IEEE}
-}
+		@inproceedings{guerin2018automatic,
+		title={Automatic Construction of Real-World Datasets for 3D Object Localization using Two Cameras},
+		author={Gu{\'e}rin, Joris and Gibaru, Olivier and Nyiri, Eric and Thiery, St{\'e}phane and Palos, Jorge},
+		booktitle={IECON 2018-44th Annual Conference of the IEEE Industrial Electronics Society},
+		pages={3655--3658},
+		year={2018},
+		organization={IEEE}
+		}
 
 
 ### 10. MISSING ATTRIBUTE VALUES: None
