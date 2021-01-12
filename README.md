@@ -1,6 +1,6 @@
 # EndToEnd_stereoLocalization_dataset
 
-All the images composing the dataset can be downloaded at the following link: https://figshare.com/articles/dataset/endToEnd_stereoLocalization_zip/13554023
+The dataset can be downloaded at the following link: https://figshare.com/articles/dataset/endToEnd_stereoLocalization_zip/13554023
 
 ### 1. TITLE: 
 
